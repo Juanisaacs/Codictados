@@ -1,0 +1,37 @@
+.clase1{
+    background-color: rgb(173, 160, 160);
+    display: inline-flexbox;
+    padding: 10px; 
+     
+    
+}
+
+.clase1 img{
+    text-align: center;
+}
+
+.navbar{
+    background-color: rgb(132, 212, 212);
+    display: block;
+    text-align: column;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+.navbar img{
+    
+    text-align: center;
+}
+.center{
+   
+    display:block;
+    text-align: column;
+    text-align: center;
+    
+}
+.contacto{
+ 
+    display: inline;
+    text-align: center;
+}
